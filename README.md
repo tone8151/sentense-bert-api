@@ -14,8 +14,8 @@
 ```bash
 git clone git@github.com:tone8151/sentense-bert-api.git
 ```
-## 学習済みモデルをプロジェクト直下に配置
-modelディレクトリをそのまま直下に配置する
+## 学習済みモデルをsentense_bertディレクトリ配下に配置
+sentense-bert-api/sentense_bert/model/
 
 ## イメージ作成、コンテナ起動
 プロジェクト直下に移動し、
