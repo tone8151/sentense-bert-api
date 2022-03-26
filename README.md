@@ -29,7 +29,7 @@ docker ps -a
 docker_sentense_bert_appコンテナのstatusがUpになっていればOK
 
 ## APIサーバーが起動しているか確認
-"http://localhost:8000"でHello, worldが表示されればOK
+"http://localhost:8000" で Hello, world が表示されればOK
 
 ## コンテナの停止
 ```bash
