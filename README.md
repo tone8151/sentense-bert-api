@@ -12,7 +12,7 @@
 # Installation
 ## このリポジトリをcloneする
 ```bash
-git clone 
+git clone git@github.com:tone8151/sentense-bert-api.git
 ```
 ## 学習済みモデルをプロジェクト直下に配置
 modelディレクトリをそのまま直下に配置する
